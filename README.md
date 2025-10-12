@@ -233,6 +233,6 @@ sql-chatbot/
 
 **Aaditya Gupta**
 AI/ML Engineer | Cloud Developer | Streamlit Enthusiast
-📧 [[aadityagupta@example.com](mailto:aaditya200805@gmail.com)]
+📧 [[aaditya200805@gmail.com](mailto:aaditya200805@gmail.com)]
 🌐 [(https://www.linkedin.com/in/aaditya-gupta200802/overlay/about-this-profile/) / https://github.com/AADITYAXX/]
 
